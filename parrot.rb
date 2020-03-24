@@ -4,6 +4,6 @@ def parrot (says = "Squawk!")
   puts "#{says}"
 end
 
-def returns
+def return_name
   "Squawk!"
 end
