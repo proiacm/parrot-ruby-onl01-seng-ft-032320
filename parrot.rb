@@ -5,4 +5,3 @@ def parrot (says = "Squawk!")
   "Squawk!"
 end
 
-"Pretty bird!"
