@@ -3,4 +3,5 @@
 def parrot (says = "Squawk!")
   puts "#{says}"
   "Squawk!"
+  "Pretty bird!"
 end
